@@ -1,7 +1,7 @@
 import React from 'react'
 import { cn } from './lib/utils'
 
-const FancyHeading = ({variant, title}) => {
+const FancyHeading = ({className, variant, title}) => {
 
   function getVariantStyle(variant) {
     switch (variant) {
@@ -18,7 +18,7 @@ const FancyHeading = ({variant, title}) => {
 
   return (
     <h1
-        className={cn(getVariantStyle(variant), "underline")}
+        className={cn(getVariantStyle(variant), className)}
       >{title}</h1>
   )
 }
