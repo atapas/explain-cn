@@ -1,14 +1,7 @@
-
+import FancyHeading from "./FancyHeading";
 
 function App() {
-
-  return (
-    <>
-      <h1
-        className="text-3xl text-center text-red-700"
-      >Welcome to Vite with TailwindCSS and React</h1>
-    </>
-  )
+  return <FancyHeading isPrimary={true} title={"We are Learning cn"}/>;
 }
 
-export default App
+export default App;
