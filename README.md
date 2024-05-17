@@ -1,14 +1,18 @@
-# React + Vite + TailWindCSS - A Template Repo
+# Explain cn()
 
-It is a template repository for you to start a project using React and TailwindCSS. You just need to create a new repository from this template repo by clicking the button at the top right corner of this page.
+Create your own cn() utility function to manage TailwindCSS styles in a React Project.
 
 ## Watch This Video
 
-https://www.youtube.com/watch?v=Zk2YJUvfsOA
+- [What Is cn() || Use clsx & twMerge With React || shadcn/ui](https://www.youtube.com/watch?v=9Km4oFSmXY8)
 
-## Links
+## 🫶 Support
+Liked it? You can show your support with a STAR(⭐).
 
-- Install Node.js: https://nodejs.org/en
-- Install Vite: https://vitejs.dev/
-- TailwindCSS: https://tailwindcss.com/
-- How to Learn TailwindCSS?: https://www.youtube.com/shorts/BhasK2BPn8c
+### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/atapas/code-in-react-19?limit=15)](https://github.com/atapas/code-in-react-19/stargazers)
+
+### Sponsor My Work
+
+> I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. You can support my work by [sponsoring me on GitHub](https://github.com/sponsors/atapas).
