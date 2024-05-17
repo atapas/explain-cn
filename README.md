@@ -11,7 +11,7 @@ Liked it? You can show your support with a STAR(⭐).
 
 ### Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/atapas/code-in-react-19?limit=15)](https://github.com/atapas/code-in-react-19/stargazers)
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/atapas/explain-cn?limit=15)](https://github.com/atapas/explain-cn/stargazers)
 
 ### Sponsor My Work
 
